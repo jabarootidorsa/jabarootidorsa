@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jabarootidorsa
+- 👋 Hi, I’m @dorsajabarooti
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning Front coding
-- 💞️ I’m looking to collaborate on Front-end Programming 
+- 💞️ I’m looking to collaborate on Front-end development
 - 📫 reach me by my instagram page ---> ID= dorsa.jabarooti
 
 <!---
